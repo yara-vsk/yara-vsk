@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+![header]([https://capsule-render.vercel.app/api?type=waving&color=521197&height=200&section=header&text=Hi,%20I'm%20Hubert%20Sieczka&fontSize=70&animation=fadeIn&fontAlignY=30&desc=Python%20Developer%20based%20in%20Bilbao&descAlignY=51&descAlign=62&fontColor=fff](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:43cea2,100:185a9d&text=Hi,%20I'm%20Jarosław%20%20Jodkowski%20&reversal=false&fontAlign=50&desc=Python%20Developer%20based%20in%20Warsaw&section=header&textBg=false&fontColor=282829&stroke=023d37&animation=twinkling&descAlign=32&descAlignY=77&fontSize=60)https://capsule-render.vercel.app/api?type=venom&height=300&color=0:43cea2,100:185a9d&text=Hi,%20I'm%20Jarosław%20%20Jodkowski%20&reversal=false&fontAlign=50&desc=Python%20Developer%20based%20in%20Warsaw&section=header&textBg=false&fontColor=282829&stroke=023d37&animation=twinkling&descAlign=32&descAlignY=77&fontSize=60)
+
+</div>

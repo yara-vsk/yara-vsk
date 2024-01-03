@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:43cea2,100:185a9d&text=Hi,%20I'm%20Jarosław%20%20Jodkowski%20&reversal=false&fontAlign=50&desc=Python%20Developer%20based%20in%20Warsaw&section=header&textBg=false&fontColor=282829&stroke=023d37&animation=twinkling&descAlign=32&descAlignY=77&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:43cea2,100:185a9d&text=Hi,%20I'm%20Jarosław%20%20Jodkowski%20&reversal=false&fontAlign=50&desc=Python%20Developer%20based%20in%20Warsaw&section=header&textBg=false&fontColor=282829&stroke=023d37&animation=twinkling&descAlign=26&descAlignY=77&fontSize=60)
 
 </div>
 

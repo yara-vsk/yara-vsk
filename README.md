@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 </div>
 
+<hr>
 <h4> 🚀 I’m looking for exciting opportunities – let's connect and make things happen!
 <a href="mailto:iadkouski94@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=socials&logo=gmail&logoColor=white" /></a></h4>
 
@@ -38,7 +39,8 @@ Here are some ideas to get you started:
   - [StockNewsBot](https://github.com/yara-vsk/Telegram_bot_stock_news) - The Telegram News Tracking Bot is a specialized tool designed for tracking and delivering news updates related to companies listed on the Warsaw Stock Exchange (WSE). This bot operates within the Telegram messaging platform, providing users with timely and relevant information about the performance and news surrounding specific companies. Tech stack: Python, aiogram, asyncio, SQLAlchemy, aiohttp, docker, beautifulsoup4, Docker
     
 - Check also my pinned repos!
-
+  
+<hr>
 <!-- LANGS -->
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left"> 
